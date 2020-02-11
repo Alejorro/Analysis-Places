@@ -28,7 +28,7 @@ _Ejecución en Jupyter Notebook: 'path/jupyter-notebook main.py'_
 * [Pandas](https://pandas.pydata.org/) - Manipulación de Dataframes
 * [MongoDB](https://www.mongodb.com/) - Manipulación de Databases
 * [API de Foursquare](https://developer.foursquare.com/) - Información adicional
-* [API de ArcGisHub](https://hub.arcgis.com/datasets/) - Información adicional
+* [API de ArcGisHub](https://hub.arcgis.com/datasets/e90996158f0a464189098881379597a6_0/geoservice?geometry=-94.285%2C-83.408%2C-102.722%2C89.630) - Información adicional
 
 
 ## Fuentes originales ✒️
