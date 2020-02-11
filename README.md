@@ -2,7 +2,7 @@
 # Analysis Places
 
 
-_En este proyecto se evalúa la mejor ubicación posible para las instalaciones de una compañía ficticia en base a numerosos criterios_
+_En este proyecto se evalúa la mejor ubicación posible para las instalaciones de una compañía ficticia en base a diversos criterios._
 
 
 ## Comienzo 🚀
